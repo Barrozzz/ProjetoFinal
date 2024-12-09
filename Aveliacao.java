@@ -1,5 +1,5 @@
 package ProjetoFinal;
 
-public class Aveliacao {
+public class Avaliacao {
 
 }
